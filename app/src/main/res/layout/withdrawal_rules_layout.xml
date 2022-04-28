@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bghome">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/d_pop_setting"
+        android:orientation="vertical"
+        android:id="@+id/lnr_box"
+        android:layout_below="@+id/rtl_toolbar"
+        android:layout_marginTop="@dimen/pop_up_top_margin"
+        android:layout_marginHorizontal="25dp"
+        android:padding="20dp"
+        >
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none"
+            android:layout_marginBottom="30dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="visible"
+                >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:orientation="vertical"
+                    >
+
+                    <com.axolotls.teenpattiprofit.Utils.TextViewWithFont
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="1. The minimum/maximum amount w can withdraw every time is 50/10,000."
+                        android:textColor="@color/white"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        />
+
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/help_divider"
+                        android:layout_marginTop="5dp"
+                        />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    >
+
+                    <com.axolotls.teenpattiprofit.Utils.TextViewWithFont
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="2. The amount which you can withdraw by all amount you have won ( other player's boot amount and the amount which they put into the pot)."
+                        android:textColor="@color/white"
+                        android:textStyle="bold"
+                        android:textSize="18sp"
+
+                        />
+
+
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/help_divider"
+                        android:layout_marginTop="5dp"
+                        />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    >
+
+                    <com.axolotls.teenpattiprofit.Utils.TextViewWithFont
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="3. 2% of the withdrawal amount will be deducted as payment gateway fee."
+                        android:textColor="@color/white"
+                        android:textStyle="bold"
+                        android:textSize="18sp"
+
+                        />
+
+
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/help_divider"
+                        android:layout_marginTop="5dp"
+                        />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    >
+
+                    <com.axolotls.teenpattiprofit.Utils.TextViewWithFont
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="4. We will deal with withdrawal requests from 9 AM to 6 PM, every Monday to Friday, except holiday's."
+                        android:textColor="@color/white"
+                        android:textStyle="bold"
+                        android:textSize="18sp"
+
+                        />
+
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/help_divider"
+                        android:layout_marginTop="5dp"
+                        />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    >
+
+                    <com.axolotls.teenpattiprofit.Utils.TextViewWithFont
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="5. You can probaly receive the amount in 2-48 hours."
+                        android:textColor="@color/white"
+                        android:textStyle="bold"
+                        android:textSize="18sp"
+
+                        />
+
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/help_divider"
+                        android:layout_marginTop="5dp"
+                        />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    >
+
+                    <com.axolotls.teenpattiprofit.Utils.TextViewWithFont
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="6. According to section 194B of Income Tax Act, winning amount of the user who wins over 10000 INR needs to be deducted 30% as income tax."
+                        android:textColor="@color/white"
+                        android:textStyle="bold"
+                        android:textSize="18sp"
+
+                        />
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+
+
+    <RelativeLayout
+        android:id="@+id/rtl_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="10dp"
+        >
+
+        <ImageView
+            android:id="@+id/imgclosetop"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/close"
+            android:visibility="visible" />
+
+        <RelativeLayout
+            android:id="@+id/img_diaProfile"
+            android:layout_width="250dp"
+            android:layout_height="45dp"
+            android:src="@drawable/app_icon"
+            android:background="@drawable/strip_bg"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            >
+
+            <com.axolotls.teenpattiprofit.Utils.TextViewWithFont
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="Withdrawal Rules"
+                android:textColor="@color/Golder_yellow"
+                android:textStyle="bold"
+                app:fontFilePath="@string/Helvetica_Bold_Extra"
+
+                />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

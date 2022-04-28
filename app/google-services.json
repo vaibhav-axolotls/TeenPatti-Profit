@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "343860987323",
+    "project_id": "teen-patti-profit-39890",
+    "storage_bucket": "teen-patti-profit-39890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343860987323:android:1d75d8bf0d5c10b40db09e",
+        "android_client_info": {
+          "package_name": "com.axolotls.teenpattiprofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343860987323-tjdr2oi8am9c765mbu9ap9vk51ms6o2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.axolotls.teenpattiprofit",
+            "certificate_hash": "68e18f5abe107d3581832153dbf1a8a59d3e0823"
+          }
+        },
+        {
+          "client_id": "343860987323-sh66s2g0935pr2d3ko0ejfveemm4srfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVia0mQgCZUmdQgdFZLs27dnn3GPl3_w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343860987323-sh66s2g0935pr2d3ko0ejfveemm4srfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

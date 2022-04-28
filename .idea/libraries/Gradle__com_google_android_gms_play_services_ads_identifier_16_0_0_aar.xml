@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-identifier:16.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/7f2f102f0410d9f06ff177e81ed8a6e0/jetified-play-services-ads-identifier-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/7f2f102f0410d9f06ff177e81ed8a6e0/jetified-play-services-ads-identifier-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jre1.8.0_161/bin/caches/transforms-2/files-2.1/7f2f102f0410d9f06ff177e81ed8a6e0/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/981f7e227309c1d52695f3046a6a0748/jetified-play-services-ads-identifier-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../caches/transforms-2/files-2.1/8d3cfa42aca5fb92f673ee853db75904/jetified-play-services-ads-identifier-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../caches/transforms-2/files-2.1/8d3cfa42aca5fb92f673ee853db75904/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../caches/transforms-2/files-2.1/8d3cfa42aca5fb92f673ee853db75904/jetified-play-services-ads-identifier-16.0.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../caches/transforms-2/files-2.1/54e9df58c2d19094525dc1787566b9a3/jetified-play-services-ads-identifier-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../caches/transforms-2/files-2.1/54e9df58c2d19094525dc1787566b9a3/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../caches/transforms-2/files-2.1/54e9df58c2d19094525dc1787566b9a3/jetified-play-services-ads-identifier-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9c40cdb7f75a237ff313bc7f85ebbf0b/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9c40cdb7f75a237ff313bc7f85ebbf0b/jetified-play-services-ads-identifier-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9c40cdb7f75a237ff313bc7f85ebbf0b/jetified-play-services-ads-identifier-16.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

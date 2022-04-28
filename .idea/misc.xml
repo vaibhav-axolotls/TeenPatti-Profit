@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AsifFilese/Android-Project/CardsGames/Teenpatti_Profit/Teenpatti_Profit/app/src/main/res/layout/activity_homepage.xml" value="0.1796875" />
+        <entry key="..\:/AsifFilese/Android-Project/CardsGames/Teenpatti_Profit/Teenpatti_Profit/app/src/main/res/layout/activity_splashscreen.xml" value="0.1" />
+        <entry key="..\:/AsifFilese/Android-Project/CardsGames/Teenpatti_Profit/Teenpatti_Profit/app/src/main/res/layout/custom_dialog_info.xml" value="0.1796875" />
+        <entry key="..\:/AsifFilese/Android-Project/CardsGames/Teenpatti_Profit/Teenpatti_Profit/app/src/main/res/layout/login_activity.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/drawable/background_border.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/drawable/background_border1.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/drawable/background_border_withcolor.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/drawable/btn_blue_declare.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/drawable/btn_green_bg.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/drawable/d_buy_box.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/drawable/d_buy_box_bonus.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/drawable/d_buy_box_bonus_bottom.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/drawable/d_pop_setting.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout-land/activity_adhar_bahar__home_.xml" value="0.4609375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_adhar_bahar__home_.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_chips_details.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_chips_list.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_dragon_tiger.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_game.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_game_chat.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_homepage.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_mai_user_listing.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_my_winning_acitivity.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_redeem.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_splashscreen.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_test_rummy.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/activity_welcome_bonus.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/alert_dialog_addballence.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/bottom_reffercode.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/cards_layout.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/cat_txtview.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/chat_item_right.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/chat_itemview_left.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/chips_buy_layout.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/cust_toobar.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/custom_dialog.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/custom_dialog_close.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/custom_dialog_custon_boot.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/custom_dialog_info.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/custom_dialog_invite.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/custom_dialog_setting.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/custom_dialog_setting_home.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dealer_imageview.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dealers_dialog_layout.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_alertuidesgin.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_app_update.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_dailyreward.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_declare_result.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_gift.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_howtoplay.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_payment_successful.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_rulesplay.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_select_palyer.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_send_report.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_sendtips.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_termandcondition.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_user.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_webviewcontent.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_wincoins.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialog_winnerlist.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/dialogbox_ctivity.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/forgot_pass_layout.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/fragment_active_table.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/fragment_bottom_list_dialog.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/fragment_game.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/fragment_wallet.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/gamewinners_itemview.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/gift_itemview.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/item_active_table.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/item_card.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/item_card_win.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/item_declare.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/item_gamehistory.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/item_gamelist.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/item_grouplayout.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/item_language.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/item_listview.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/item_static_cards.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/login_activity.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/public_tablev3.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/redeem_buy_layout.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/redeem_itemview.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/reward_itemview.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/support_layout.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/testgragdrop.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/user_itemview.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/webview.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/winnig_itemview.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/withdraw_item.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/teenpattiprofit-master/app/src/main/res/layout/withdrawal_rules_layout.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
